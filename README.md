@@ -7,7 +7,7 @@ While working at The Natal Witness newspaper as a sub-editor I taught myself HTM
 
 On moving to London in 1998 I worked at a large personal Finance website and helped take traffic from 20,000 pages per month to a record of 1,000,000 per day during the 1998 Budget speech. I then worked at a large digital marketing agency managing a large team.
 
-I was a professional photographer for a number of years and as such I programmed in PHP & MySQL on an ad hoc basis from around 2003, and since 2020 on a full time programmer utilising the Laravel framework with Tailwind, AlpineJS and Livewire.
+I was a professional photographer for a number of years but during that time I programmed in PHP & MySQL on an ad hoc basis from around 2003, and since 2020 I've been a full time programmer utilising the Laravel framework with Tailwind, AlpineJS and Livewire.
 
 Gary
 
